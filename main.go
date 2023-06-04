@@ -5,7 +5,7 @@ import (
 	"net/http"
 
 	"github.com/Akhanrok/shopping-list-app/handlers"
-	"github.com/Akhanrok/shopping-list-apps/repositories"
+	"github.com/Akhanrok/shopping-list-app/repositories"
 	_ "github.com/go-sql-driver/mysql"
 )
 
